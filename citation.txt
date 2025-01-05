@@ -1,0 +1,9 @@
+@inproceedings{REPO173,
+    author = "Zhao, Zengqun and Liu, Qingshan and Zhou, Feng",
+    booktitle = "Proceedings of the AAAI conference on artificial intelligence",
+    number = "4",
+    pages = "3510--3519",
+    title = "{Robust lightweight facial expression recognition network with label distribution training}",
+    volume = "35",
+    year = "2021"
+}
